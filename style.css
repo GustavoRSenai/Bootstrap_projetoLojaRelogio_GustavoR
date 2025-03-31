@@ -16,7 +16,7 @@ body{
 }
 
 .light-bg-color{
-    background-color: #fcf5eb;
+    background-color: #FCF5EB;
 }
 
 .dark-bg-color{
@@ -353,7 +353,7 @@ body{
 
 
 /* galeria */
-#gallery .imagem-container{
+#gallery .imagem-container {
     background-size: cover;
     background-position: center;
     height: 225px;
@@ -366,22 +366,22 @@ body{
 }
 
 #insta1 {
-    background-image: url(img/insta1.jpg);
+    background-image: url('img/insta1.jpg');
 }
 #insta2 {
-    background-image: url(img/insta2.jpg);
+    background-image: url('img/insta2.jpg');
 }
 #insta3 {
-    background-image: url(img/insta3.jpg);
+    background-image: url('img/insta3.jpg');
 }
 #insta4 {
-    background-image: url(img/insta4.jpg);
+    background-image: url('img/insta4.jpg');
 }
 #insta5 {
-    background-image: url(img/insta5.jpg);
+    background-image: url('img/insta5.jpg');
 }
 #insta6 {
-    background-image: url(img/insta6.jpg);
+    background-image: url('img/insta6.jpg');
 }
 
 /* footer */
@@ -414,7 +414,7 @@ body{
 }
 
 @media(min-width:795px) {
-    #footer-çinls-container li{
+    #footer-links-container li{
         text-align: left;
     }
 }
