@@ -41,7 +41,7 @@ body{
     justify-content: flex-end;
 }
 
-#navbar.navbar-nav li{
+#navbar .navbar-nav li{
     margin-left: 1em;
 }
 
@@ -77,6 +77,16 @@ body{
     font-weight: 700;
     width: 100%;
     text-align: center;
+}
+
+@media(min-width: 768px){
+    .navbar-brand {
+        text-align: left;
+    }
+}
+
+#navbar-items{
+    justify-content: space-between;
 }
 
 @media(min-width: 768px){
