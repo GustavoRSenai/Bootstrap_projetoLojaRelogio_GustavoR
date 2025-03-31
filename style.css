@@ -353,7 +353,7 @@ body{
 
 
 /* galeria */
-#gallery .imagem-container {
+#gallery .image-container {
     background-size: cover;
     background-position: center;
     height: 225px;
@@ -361,7 +361,7 @@ body{
     transition: .5s;
     border: 3px solid #101010;
 }
-#gallery .imagem-container:hover {
+#gallery .image-container:hover {
     border-color: #c09578;
 }
 
