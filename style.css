@@ -201,6 +201,18 @@ body{
     .ant, .dep{
         top: 250px;
     }
+
+    .carousel-caption {
+        height: 50%;
+    }
+
+    .carousel-caption h5{
+        font-size: 1.1em;
+    }
+
+    .carousel-caption p{
+        font-size: .8em;
+    }
 }
 
 /* MINI BANNERS */
