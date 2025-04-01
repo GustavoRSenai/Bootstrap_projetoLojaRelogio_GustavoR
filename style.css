@@ -116,7 +116,7 @@ body{
         margin: 0;
     }
 
-    .navbar-nav {
+    .disable {
         display: none;
     }
 }
