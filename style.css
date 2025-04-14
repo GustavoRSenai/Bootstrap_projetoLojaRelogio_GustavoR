@@ -346,7 +346,7 @@ body{
 }
 
 #bottom-banner img {
-    max-width: 175px;
+    max-width: 430px;
 }
 
 @media(min-width:768px) {
@@ -382,8 +382,8 @@ body{
 }
 
 #new-products .card img {
-    height: 150px;
-    width: 90px;
+    height: 160px;
+    width: 150px;
     margin: 2rem auto;
 }
 
@@ -402,22 +402,22 @@ body{
 }
 
 #insta1 {
-    background-image: url(img/insta1.jpg);
+    background-image: url(img/Thalys.png);
 }
 #insta2 {
-    background-image: url(img/insta2.jpg);
+    background-image: url(img/Guiac.png);
 }
 #insta3 {
-    background-image: url(img/insta3.jpg);
+    background-image: url(img/medeiros2.jpg);
 }
 #insta4 {
-    background-image: url(img/insta4.jpg);
+    background-image: url(img/Thalys2.png);
 }
 #insta5 {
-    background-image: url(img/insta5.jpg);
+    background-image: url(img/guiac2.png);
 }
 #insta6 {
-    background-image: url(img/insta6.jpg);
+    background-image: url(img/medeiros.jpg);
 }
 
 /* footer */
