@@ -355,6 +355,12 @@ body{
     }
 }
 
+@media(max-width:768px) {
+    #bottom-banner img {
+        max-width: 150px;
+    }
+}
+
 
 /* new oproducts */
 
